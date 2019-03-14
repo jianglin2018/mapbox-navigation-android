@@ -60,4 +60,8 @@
             translatable="false">navigation_view_instance_state</string>
     <string name="navigation_running"
             translatable="false">navigation_running</string>
+    <string name="mapbox_navigation_route_line_cap_round"
+            translatable="false">round</string>
+    <string name="mapbox_navigation_route_line_cap_square"
+            translatable="false">square</string>
 </resources>
